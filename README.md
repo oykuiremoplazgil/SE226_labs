@@ -23,14 +23,3 @@ This repository contains lab studies conducted in **C++** and **Python** for the
 ##  Kullanılan Teknolojiler / Tech Stack
 * **Languages:** `C++`, `Python 3.x`
 * **Concepts:** `Memory Management`, `OOP`, `File Handling`, `Algorithm Implementation`.
-
----
-
-## Çalışma Konuları / Lab Topics
-
-| Kategori / Category | C++ Çalışmaları | Python Çalışmaları |
-| :--- | :--- | :--- |
-| **Düşük Seviye / Low-Level** | Pointer & Dynamic Memory | List Comprehensions & Dictionaries |
-| **OOP** | Classes, Inheritance, Polymorphism | Classes, Decorators, Generators |
-| **Dosya İşlemleri / File I/O** | Binary/Text File Operations | CSV/JSON Processing & Management |
-| **Algoritmalar / Algorithms** | Performance-focused Logic | Rapid Prototyping & Scripting |
